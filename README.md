@@ -1,4 +1,4 @@
-# MNIST hand written digit classification using tenserflow and keras**
+# MNIST hand written digit classification using tenserflow and keras
   -Download imageclassifier.ipynb, check for dpendencies by running versions.ipynb in jupyter
   notebook and install required packages
   -run image_classifier.ipynb using jupyter notebook.
