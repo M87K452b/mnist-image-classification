@@ -4,6 +4,5 @@
   -run image_classifier.ipynb using jupyter notebook.
 
 ### What I learned
-* **Categorical image classification of images using MNIST hand written digit dataset,
-tensorflow and keras. 
+* **Categorical image classification of images using MNIST hand written digit dataset,tensorflow and keras.**
 * **Setting up convolutional neural networks in tensorflow and general image classification.**
